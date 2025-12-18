@@ -22,3 +22,10 @@ This is a Python GUI application built using **wxPython** that allows users to s
 1. Install wxPython:
    ```bash
    pip install wxPython
+
+## Contribution
+
+PES2UG25CS633	Athul Jenson 
+PES2UG25CS641	Deepak
+PES2UG25CS634	Bhagesh aikur
+PES2UG25CS632	Aryan B Turavi
