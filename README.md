@@ -26,6 +26,9 @@ This is a Python GUI application built using **wxPython** that allows users to s
 ## Contribution
 
 PES2UG25CS633	Athul Jenson 
+
 PES2UG25CS641	Deepak
+
 PES2UG25CS634	Bhagesh aikur
+
 PES2UG25CS632	Aryan B Turavi
